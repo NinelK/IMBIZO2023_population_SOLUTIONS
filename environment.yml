@@ -1,0 +1,12 @@
+name: npm_tutorial
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - h5py
+  - scikit-learn
+  - matplotlib
+  - tqdm
+  - jupyter
+  - imagio
+  - IPython
