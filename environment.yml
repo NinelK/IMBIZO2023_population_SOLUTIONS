@@ -1,6 +1,7 @@
 name: npm_tutorial
 channels:
   - defaults
+  - conda-forge
 dependencies:
   - python=3.8
   - h5py
@@ -8,5 +9,6 @@ dependencies:
   - matplotlib
   - tqdm
   - jupyter
-  - imagio
+  - jupyterlab
+  - imageio
   - IPython
