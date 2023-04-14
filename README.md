@@ -12,9 +12,9 @@ Once everything is installed, activate the environment:
 conda activate npm_tutorial
 ```
 
-And run the Jupyter lab in it:
+And run the Jupyter notebook in it:
 ```
-jupyter lab
+jupyter notebook
 ```
 
 The Jupyter Lab should be now available in your browser:

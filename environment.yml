@@ -3,12 +3,13 @@ channels:
   - defaults
   - conda-forge
 dependencies:
-  - python=3.8
+  - python
   - h5py
   - scikit-learn
   - matplotlib
   - tqdm
   - jupyter
-  - jupyterlab
   - imageio
   - IPython
+  - nb_black
+  - ipywidgets
