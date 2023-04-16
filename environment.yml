@@ -10,6 +10,3 @@ dependencies:
   - tqdm
   - jupyter
   - imageio
-  - IPython
-  - nb_black
-  - ipywidgets
